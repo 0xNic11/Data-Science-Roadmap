@@ -1,5 +1,5 @@
 <img align="center" width="730" height="720" src="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap/assets/92026137/95f2d5a6-990b-46cf-90c1-098059a9c706">
-<h2>&emsp;&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2025 </h2>
+<h2>&emsp;&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2026 </h2>
  
 ### Data Science Roadmap for anyone interested in how to break into the field!
 
@@ -558,5 +558,6 @@ Podcasts  | About      | Produced by
 <a href="https://twitter.com/MoatazElmesmary" title="twitter"><img src="https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2F%3Flabel%3Dtwitter%26style%3Dsocial"/></a>
 <a href="https://www.linkedin.com/in/MoatazElmesmary/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a><h1 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Show+Some+❤️;By+Starring+This+Repo⭐️;I+Keep+It+Up-To-Date;لاڤ+يو+أول)](https://git.io/typing-svg)</h1>
+
 
 
